@@ -1,0 +1,9 @@
+# R studio
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Data files (ignore raw data within folder)
+data/*.csv
+data/*.xlsx
